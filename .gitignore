@@ -1,0 +1,24 @@
+# Виртуальное окружение
+env/
+venv/
+*.env
+*.pyenv
+
+# Файлы для кеширования
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+
+# Чувствительные данные
+.env
+
+
+# Пакеты и зависимости
+*.whl
+
+# Системные файлы
+Thumbs.db  # Windows
